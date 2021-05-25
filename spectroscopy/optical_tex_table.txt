@@ -1,0 +1,19 @@
+\begin{deluxetable*}{ccccc}
+\tablecaption{Journal of the optical spectroscopic observations \label{tab:params}}
+\tablehead{\colhead{UT Date} & \colhead{MJD} & \colhead{Instrument} & \colhead{$t_{max}(B)$} & \colhead{$t_{exp}$} &\colhed{$T_{int}$}
+\startdata
+2021-03-18.11 & 59291.1 & RSS & 59291.1 & 34.9 \\
+2021-03-18.33 & 59291.3 & Binospec & 59291.3 & 22.5 \\
+2021-03-19.56 & 59292.6 & OGG & 59292.6 & 45.0 \\
+2021-03-22.49 & 59295.5 & OGG & 59295.5 & 20.0 \\
+2021-03-24.46 & 59297.5 & COJ & 59297.5 & 20.0 \\
+2021-03-24.88 & 59297.9 & RSS & 59297.9 & 32.8 \\
+2021-03-27.74 & 59300.7 & COJ & 59300.7 & 13.3 \\
+2021-03-31.87 & 59304.9 & RSS & 59304.9 & 24.1 \\
+2021-04-02.09 & 59306.1 & SOAR & 59306.1 & 15.0 \\
+2021-04-04.08 & 59308.1 & RSS & 59308.1 & 29.0 \\
+2021-04-09.65 & 59313.6 & COJ & 59313.6 & 13.3 \\
+2021-04-23.40 & 59327.4 & COJ & 59327.4 & 15.0 \\
+2021-05-13.37 & 59347.4 & OGG & 59347.4 & 15.0 \\
+\enddata
+\end{deluxetable*}
